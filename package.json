@@ -39,12 +39,7 @@
     "url": "https://github.com/marionettejs/backbone.marionette.git"
   },
   "github": "https://github.com/marionettejs/backbone.marionette",
-  "dependencies": {
-    "backbone.babysitter": "^0.1.0",
-    "backbone.wreqr": "^1.0.0",
-    "backbone": "1.0.0 - 1.1.2",
-    "underscore": "1.4.4 - 1.6.0"
-  },
+  "dependencies": {},
   "devDependencies": {
     "chai": "1.9.1",
     "chai-jq": "0.0.7",
